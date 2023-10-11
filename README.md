@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Software Developer, Vision ML Engineer and 3D Rendering Artist also I am interested in Game Development
 - 📫 You can also find me on ->  https://www.instagram.com/mbaruth 
-- 📸 Visit me on ArtStation(https://www.artstation.com/mbarut)
+- 📸 Visit me on https://www.artstation.com/mbarut
 <!--
 **mbaruthn/mbaruthn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
