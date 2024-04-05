@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Developer, Vision ML Engineer and 3D Rendering Artist also I am interested in Game Development
+I am a .Net Developer, also I am interested in 3D Rendering Artist and Game Development
 - 📫 You can also find me on ->  https://www.instagram.com/mbaruth 
 - 📸 Visit me on https://www.artstation.com/mbarut
 <!--
